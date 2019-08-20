@@ -1,2 +1,2 @@
 # hello-world
-this is a GitHub training repo
+Hi... Hello there, my name is ahmadsan and I like to code
